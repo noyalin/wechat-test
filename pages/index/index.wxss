@@ -1,0 +1,11 @@
+.flex-wrp{
+  display: flex;
+}
+.flex-wrp .bc_green{
+    width: 300rpx; 
+    overflow: hidden;
+}
+.flex-wrp .bc_green image{
+    max-width:100%;
+    max-height:100%;
+}
